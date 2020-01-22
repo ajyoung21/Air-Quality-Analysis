@@ -1,5 +1,3 @@
-# UNC Data Bootcamp - Project 1
-
 ## Air Quality Index Status and Trends for Selected Cities
 
 The goal of this project is to determine the status and trends for air quality index for selected cities for North Carolina, USA and cities around the world.  
